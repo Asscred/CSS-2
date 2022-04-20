@@ -1,0 +1,24 @@
+﻿div	{
+		width:815px;
+		background-color:lightgreen;
+		padding:10px 0 10px 0;
+		margin:30px;
+		}
+
+div#blok1_dziuba:hover	
+{
+background-color:silver;
+font-size:20mm;
+}
+
+div#blok2_dziuba:hover
+{
+background-color:orange;
+font-size:20mm;
+}
+
+div#blok3_dziuba:hover
+{
+background-color:lightgreen;
+font-size:20mm;
+}
